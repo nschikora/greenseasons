@@ -61,7 +61,7 @@ export function SeasonalCalendar() {
             </tr>
           ))}
           <tr>
-            <td>
+            <td className="sticky left-0 z-20">
               <Legend />
             </td>
           </tr>
