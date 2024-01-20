@@ -3,14 +3,3 @@
 @tailwind utilities;
 
 
-thead th {
-  position: sticky;
-  top: 0;
-  z-index: 3; /* To ensure the header is above other content */
-}
-
-tbody th:first-child, tbody td:first-child {
-  position: sticky;
-  left: 0;
-  z-index: 2; /* Higher than the header to overlap correctly */
-}
