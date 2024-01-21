@@ -1,4 +1,3 @@
-import { Legend } from "@/components/legend";
 import { SeasonalCalendar } from "@/components/seasonal-calendar";
 
 export default function Home() {

@@ -10,7 +10,7 @@ export function Legend() {
         <p className="ml-1">Eingelagert</p>
       </div>
       <div className="flex items-center justify-center">
-        <div className="w-4 h-4 bg-slate-400"></div>
+        <div className="w-4 h-4 bg-slate-300"></div>
         <p className="ml-1">Importiert</p>
       </div>
     </legend>
